@@ -1,6 +1,8 @@
 # LxMusic
-目前支持Android‌、iOS、Windows、MacOS，并提供音乐源，本仓库只收集（第三方转载发布），感谢你的关注
-
+目前支持Android‌、iOS、Windows、MacOS，并提供音乐源，本仓库只收集（第三方转载发布），感谢他们的开发
+https://github.com/lyswhut/lx-music-desktop
+https://github.com/lyswhut/lx-music-mobile
+https://github.com/mapxn/lx-music-mobile
 一、数据来源
 1.1 本项目的各官方平台在线数据来源原理是从其公开服务器中拉取数据（与未登录状态在官方平台 APP 获取的数据相同），经过对数据简单地筛选与合并后进行展示，因此本项目不对数据的合法性、准确性负责。
 
